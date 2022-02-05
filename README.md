@@ -2,7 +2,7 @@
 How to make Tic-80 Autoboot at startup in Fullscreen
 Hello Here is Toolkitman!
 My idea was to make a real computer inspired over the TIC-80 Phantasy Computer software,
-so it have think why not use the raspberry pi distribution and make i bootable at startup 
+so i have think why not use the raspberry pi distribution and make it bootable at startup 
 in fullscreen, the result is a working TIC-80 computer.
 
 Here the move to do it:
