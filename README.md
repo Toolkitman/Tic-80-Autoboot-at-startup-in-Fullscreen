@@ -6,6 +6,13 @@ so i have think why not use the raspberry pi distribution and make it bootable a
 in fullscreen, the result is a working TIC-80 computer.
 
 Here the move to do it:
+You need a Raspbian distribution, i used the one from pom1 i built previously downloading it here:
+https://wiki.reactivemicro.com/POM1_Raspberrypi booting it and removing with sudo nano etc/rc.local
+the executable pom1 string from terminal window. 
+Then i have set the monitor to a lover 16:9 resolution with sudo raspi-config from terminal.
+I have also configured the keyboard to us layout like mine from sudo raspi-config from terminal
+then localisation then keyboard layout.
+Ok now.....
 
 go to this link https://tic80.com/create
 
